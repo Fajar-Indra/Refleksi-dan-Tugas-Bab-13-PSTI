@@ -2,6 +2,7 @@
 ## Studi Kasus: Universitas Pembangunan
 
 **Mata Kuliah:** Perencanaan Strategis TI - Pertemuan 13
+
 **Dosen Pengampu: Dr. Basuki Rahmat, S.Si. MT. **
 ---
 
